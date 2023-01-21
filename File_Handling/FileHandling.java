@@ -18,7 +18,7 @@ import java.io.IOException;
 class File_Creator
 {
     //opening or creating the specified file and pointing to it
-    File file = new File("JAVA_CONCEPTS/File_Handling/text.txt"); //you can specify path on your own preferences
+    File file = new File("text.txt"); //you can specify path on your own preferences
         
     File_Creator() //File_Creator class constructor
     {
